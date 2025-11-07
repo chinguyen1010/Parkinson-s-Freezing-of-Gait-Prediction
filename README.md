@@ -25,8 +25,13 @@ Your work will help advance the evaluation, understanding and treatment of FOG, 
 <img width="815" height="662" alt="Screenshot 2025-11-06 at 11 47 00 PM" src="https://github.com/user-attachments/assets/ba45ef4b-4906-49aa-bca5-8ece74513489" />
 
 
-Data Sources: https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction/data
-Additional Data Documentation
+
+
+
+Additional Data Documentation:
+
+https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction/data
+
 This page is a supplement to the documentation on the Data page. We give video examples of freezing gait events and describe the collection protocols for the three data sources.
 
 Video Examples of Freezing Gait Events
