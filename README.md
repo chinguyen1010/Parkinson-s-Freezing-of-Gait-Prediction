@@ -80,28 +80,13 @@ During On medication: The protocol is repeated again with the addition of a Mini
 
 At visit 2: The same protocol that is described for visit 1 was repeated. In addition, the tasks were also performed with auditory cueing, with the exception of tasks that includes dual task (e.g. "Timed Up & Go (TUG) – Dual task" and "Turning task – Dual task").
 
-MiniBest test includes the following parts:
+<img width="479" height="458" alt="Screenshot 2025-11-06 at 11 50 43 PM" src="https://github.com/user-attachments/assets/d4ead609-272c-44b7-b7f7-d60c1c1a9bde" />
 
-SIT TO STAND.
-RISE TO TOES.
-STAND ON ONE LEG.
-COMPENSATORY STEPPING CORRECTION- FORWARD.
-CSC BACKWARD.
-CSC LATERAL.
-STANCE (FEET TOGETHER) EYES OPEN, FIRM SURFACE.
-STANCE (FEET TOGETHER) EYES CLOSED, FOAM SURFACE.
-INCLINE EYES CLOSED (Shoulder width, arms at your side).
-DYNAMIC GAIT INDEX:
-CHANGE IN GAIT SPEED.
-WALK WITH HEAD TURNS – HORIZONTAL.
-WALK WITH PIVOT TURNS.
-STEP OVER OBSTACLES.
-The Daily Living Dataset
-The Daily-living contains data from 65 people with PD that were recorded using the same device as in the home FoG-provoking dataset (the DeFOG dataset). The daily-living recordings contain ~one week of unlabeled, continuous recordings from an accelerometer device placed on the lower back of the subjects at 100Hz, during their daily living activity.
 
 The 65 PD subjects are comprised of two groups:
 
 45 people with PD that suffer from FoG. They also underwent a FoG-provoking protocol at their home and that data is provided in the DeFOG data set. In the metadata file, these subjects have NFOG questionnaire score higher than 0.
+
 20 people with PD that do not suffer from FoG. In the metadata file, these subjects have NFOG questionnaire score of 0.
 
 Citation:
