@@ -24,21 +24,33 @@ Your work will help advance the evaluation, understanding and treatment of FOG, 
 <img width="770" height="429" alt="Screenshot 2025-11-06 at 11 46 48 PM" src="https://github.com/user-attachments/assets/ebbd9e71-6ba7-4c26-8f03-aa7695758bda" />
 <img width="815" height="662" alt="Screenshot 2025-11-06 at 11 47 00 PM" src="https://github.com/user-attachments/assets/ba45ef4b-4906-49aa-bca5-8ece74513489" />
 
+
 Data Sources: https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction/data
 Additional Data Documentation
 This page is a supplement to the documentation on the Data page. We give video examples of freezing gait events and describe the collection protocols for the three data sources.
 
 Video Examples of Freezing Gait Events
 Parkinsonian Gait Demonstration - Short demonstration of FOG events.
+
 Freezing of gait from The Lancet - Patient showing FOG events during a test.
+
 Multitarget tDCS for Freezing of Gait in Parkinson’s Disease - Example of a FOG provoking test.
+
 Freezing of Gait & Interventions For Freezing Triggers - See 7:20 for descriptions of the event types.
+
 Gait impairments in Parkinson's disease
+
 Cycling for Freezing Gait in Parkinson's Disease
+
 Parkinson's Freezing of Gait - Before and After Exercise
+
 Parkinson's Disease Freezing & Festinating Gait
+
 Parkinson's Disease: Freezing of Gait - Parkinsonism and Related
+
+
 The tDCS FOG Dataset
+
 Subjects arrived to the clinic for multiple visits as described in Reches T, Dagan M. et al., 2021 and Manor B, Dagan M et al. 2021. At each visit they completed the freezing of gait provoking protocol described by Ziegler et al. 2010 (DOI: 10.1002/mds.22993) both at "off" and "on" anti-parkinsonian medications while wearing 3D accelerometer on their lower back (Opals by APDM Wearable Technologies, Portland, OR, USA. Sampling rate 128Hz). All FoG provoking trials were videotaped and analyzed offline.
 
 Data recordings include a short period (~2-3s) of quiet standing before the start of the test protocol.
@@ -53,11 +65,17 @@ At visit 1: During Off medication:
 
 4-meter walk test
 Timed Up & Go (TUG) - Single task
+
 Timed Up & Go (TUG) – Dual-task (subtracting numbers while performing the TUG test)
+
 Turning task with alternating directions- Single task (performing 4 x 360 degrees turns, each time alternating the rotation direction).
+
 Turning task – Dual-task (same as before, but with additional number subtraction task).
+
 Hotspot Door – A walking trial that involves opening a door, entering another room, turning, and returning to the start point.
+
 Personalized Hotspot - walking through an area in the house that the subject describes as FoG provoking.
+
 During On medication: The protocol is repeated again with the addition of a MiniBest test that is added after the 4 meters walk. See at the end of the protocol elaboration about the MiniBest test.
 
 At visit 2: The same protocol that is described for visit 1 was repeated. In addition, the tasks were also performed with auditory cueing, with the exception of tasks that includes dual task (e.g. "Timed Up & Go (TUG) – Dual task" and "Turning task – Dual task").
