@@ -48,46 +48,16 @@ Parkinson's Disease Freezing & Festinating Gait
 
 Parkinson's Disease: Freezing of Gait - Parkinsonism and Related
 
+<img width="762" height="381" alt="Screenshot 2025-11-06 at 11 52 20 PM" src="https://github.com/user-attachments/assets/34abcf9c-9fda-4e88-b38c-01c32ebe7548" />
 
-The tDCS FOG Dataset
 
-Subjects arrived to the clinic for multiple visits as described in Reches T, Dagan M. et al., 2021 and Manor B, Dagan M et al. 2021. At each visit they completed the freezing of gait provoking protocol described by Ziegler et al. 2010 (DOI: 10.1002/mds.22993) both at "off" and "on" anti-parkinsonian medications while wearing 3D accelerometer on their lower back (Opals by APDM Wearable Technologies, Portland, OR, USA. Sampling rate 128Hz). All FoG provoking trials were videotaped and analyzed offline.
 
-Data recordings include a short period (~2-3s) of quiet standing before the start of the test protocol.
-
-The DeFOG Dataset
-This project included two visits at the subject's home environment. At each visit, the participants were evaluated at Off and On medication states. During the motor assessment, the subjects wore a 3D accelerometer on their lower back (Ax3 by Axivity) which recorded the data with a sample rate of 100Hz. The acceleration units are provided in [g].
-
-PROTOCOL
-The protocol that was performed at each visit:
-
-At visit 1: During Off medication:
-
-4-meter walk test
-Timed Up & Go (TUG) - Single task
-
-Timed Up & Go (TUG) – Dual-task (subtracting numbers while performing the TUG test)
-
-Turning task with alternating directions- Single task (performing 4 x 360 degrees turns, each time alternating the rotation direction).
-
-Turning task – Dual-task (same as before, but with additional number subtraction task).
-
-Hotspot Door – A walking trial that involves opening a door, entering another room, turning, and returning to the start point.
-
-Personalized Hotspot - walking through an area in the house that the subject describes as FoG provoking.
-
-During On medication: The protocol is repeated again with the addition of a MiniBest test that is added after the 4 meters walk. See at the end of the protocol elaboration about the MiniBest test.
-
-At visit 2: The same protocol that is described for visit 1 was repeated. In addition, the tasks were also performed with auditory cueing, with the exception of tasks that includes dual task (e.g. "Timed Up & Go (TUG) – Dual task" and "Turning task – Dual task").
+<img width="764" height="524" alt="Screenshot 2025-11-06 at 11 52 43 PM" src="https://github.com/user-attachments/assets/bf1de096-20a2-4e27-bd47-1bf4f1e8ae16" />
 
 <img width="479" height="458" alt="Screenshot 2025-11-06 at 11 50 43 PM" src="https://github.com/user-attachments/assets/d4ead609-272c-44b7-b7f7-d60c1c1a9bde" />
 
+<img width="755" height="325" alt="Screenshot 2025-11-06 at 11 51 53 PM" src="https://github.com/user-attachments/assets/380a8fed-cbfc-4c61-bee9-76349f8aa46c" />
 
-The 65 PD subjects are comprised of two groups:
-
-45 people with PD that suffer from FoG. They also underwent a FoG-provoking protocol at their home and that data is provided in the DeFOG data set. In the metadata file, these subjects have NFOG questionnaire score higher than 0.
-
-20 people with PD that do not suffer from FoG. In the metadata file, these subjects have NFOG questionnaire score of 0.
 
 Citation:
 
